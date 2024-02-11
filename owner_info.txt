@@ -1,0 +1,62 @@
+
+Name: John Doe (Owner)
+Egn: 12345
+Adress: 123 Main St
+Properties: 
+- 456 Oak St
+- 789 Elm St
+- 78 Elm St
+- 79 Elm St
+- 89 Elm St
+
+Name: Alice Johnson (Owner)
+Egn: 67890
+Adress: 456 Center St
+Properties: 
+- 876 Park Ave
+- 543 Hill Rd
+
+Name: Bob Smith (Owner)
+Egn: 54321
+Adress: 987 Elm St
+Properties: 
+- 321 Maple St
+- 654 Pine St
+
+Name: Emma Brown (Owner)
+Egn: 13579
+Adress: 222 Oak St
+Properties: 
+- 888 Cedar St
+- 999 Birch St
+
+Name: Michael Davis (Owner)
+Egn: 24680
+Adress: 333 Pine St
+Properties: 
+- 111 Cherry St
+- 222 Walnut St
+
+Name: Bozhidar Uzunov
+Egn: 0244245656
+Adress: 3 Blok Stud gr.
+
+Name: Radul Ivanov
+Egn: 674241246
+Adress: 789 Elm St
+
+Name: Bozhidar Uzunov
+Egn: 0244245656
+Adress: 654 Pine St
+
+Name: Radul Ivanov
+Egn: 674241246
+Adress: 654 Pine St
+
+Name: Bozhidar Uzunov
+Egn: 0244245656
+Adress: 222 Walnut St
+
+Name: Radul Ivanov
+Egn: 674241246
+Adress: 888 Cedar St
